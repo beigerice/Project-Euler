@@ -1,2 +1,2 @@
 # Project-Euler
-Python code solving problems from Project Euler
+Python code to solve problems from Project Euler
